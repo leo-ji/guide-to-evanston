@@ -1,0 +1,8 @@
+html, head, body {
+    font-family: "Merriweather", serif;
+}
+
+.location-address{
+    font-style: italic;
+    font-family: "Merriweather Sans", sans-serif;
+}
